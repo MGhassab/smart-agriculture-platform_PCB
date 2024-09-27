@@ -1,0 +1,33 @@
+Board Information Report
+Filename     : C:\Users\Mojtaba\OneDrive\LDM\BaghYar\PCB\Baghyar_P200\Main\SIM_Cntroller_P200.PcbDoc
+Date         : 04/09/2021
+Time         : 04:27:39 ب.ظ
+Time Elapsed : 00:00:00
+
+Pad Solder Mask, Count
+    0.05mm, 24
+    0.075mm, 10
+    0.1mm, 10
+    0.1016mm, 568
+    0.2mm, 8
+count : 5
+
+Pad Paste Mask, Count
+    0mm, 620
+count : 1
+
+Pad Pwr/Gnd Expansion, Count
+    0.508mm, 620
+count : 1
+
+Pad Relief Conductor Width, Count
+    0.254mm, 620
+count : 1
+
+Pad Relief Air Gap, Count
+    0.254mm, 620
+count : 1
+
+Pad Relief Entries, Count
+    4, 620
+count : 1

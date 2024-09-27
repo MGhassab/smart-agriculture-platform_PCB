@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=L1 Old Footprint=IND 10X11MM New Footprint=IND 10X11
+Change Component Comment: Designator=R29 Old Comment==VALUE New Comment=3.3K
+Change Component Comment: Designator=C36 Old Comment==Value New Comment=22uF
+Change Component Comment: Designator=C37 Old Comment==Value New Comment=22uF
+Change Component Comment: Designator=R24 Old Comment==VALUE New Comment=62K
+Change Component Comment: Designator=C40 Old Comment==Value New Comment=100uF
